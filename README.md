@@ -5,14 +5,14 @@ Y. Han, X. Du and Z. Yang, "Two-stage Network For Single Image Super-Resolution,
 
 ## Bib Tex:
 
-@INPROCEEDINGS{9522693,
-  author={Han, Yuzhuo and Du, Xiaobiao and Yang, Zhi},
-  booktitle={2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)}, 
-  title={Two-stage Network For Single Image Super-Resolution}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={880-887},
-  doi={10.1109/CVPRW53098.2021.00098}}
-
+@inproceedings{Han2021,
+  title = {Two-stage Network For Single Image Super-Resolution},
+  url = {http://dx.doi.org/10.1109/CVPRW53098.2021.00098},
+  DOI = {10.1109/cvprw53098.2021.00098},
+  booktitle = {2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+  publisher = {IEEE},
+  author = {Han,  Yuzhuo and Du,  Xiaobiao and Yang,  Zhi},
+  year = {2021},
+  month = jun 
+}
 
